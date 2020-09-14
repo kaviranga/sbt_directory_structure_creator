@@ -1,1 +1,1 @@
-# sbt_directory_structure_generartor
+# sbt_directory_structure_generator
