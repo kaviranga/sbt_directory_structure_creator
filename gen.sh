@@ -11,7 +11,7 @@ mkdir -p src/test/resources
 mkdir -p src/test/scala
 mkdir lib project target
 # create an initial build.sbt file
-echo 'name := "FileProcessor3"
+echo 'name := "Sample Project"
 version := "1.0"
 scalaVersion := "2.13.3" 
 libraryDependencies += "org.apache.spark" % "spark-core_2.11" % "2.2.0"
